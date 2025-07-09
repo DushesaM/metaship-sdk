@@ -11,5 +11,5 @@ class DeliveryServiceCode
     const DRHL         = 'Drhl';
     const DPD          = 'Dpd';
     const CSE          = 'Cse';
-    const DALLI          = 'Dalli';
+    const DALLI        = 'Dalli';
 }
